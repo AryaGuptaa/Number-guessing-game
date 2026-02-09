@@ -7,3 +7,5 @@ Features:
 - Attempt tracking
 - Game restart
 - Input validation
+
+You can play it here -  https://aryaguptaa.github.io/Number-guessing-game/
